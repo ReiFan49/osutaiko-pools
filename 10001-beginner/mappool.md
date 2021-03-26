@@ -1,6 +1,6 @@
 # Rei_Fan49's Taiko Beginner Practice Pool
 
-## Version: 2021 March
+## Version: 2021 March - Special Edition
 
 ## Summary
 
@@ -14,14 +14,14 @@
 | HD2 | BiBi - Cutie Panther | *[BASIC](https://osu.ppy.sh/b/2666573?m=1)* | 170 | 4 | 3.8<br>*38.6ms* | 3.8<br>*x4.52* | 429 | 263 |
 | HD3 | ZUN - Furuki Yuanshen (Spirit World Version) | [Seiga Futsuu Futsuu](https://osu.ppy.sh/b/2877160?m=1) | 174 | 7 | 4.5<br>*36.5ms* | 4.5<br>*x4.8* | 190 | 100 |
 | HR1 | Taishi - Nerverakes | [ADVANCED FUTSUU](https://osu.ppy.sh/b/2666644?m=1) | 140 | **10** | **7**<br>*29ms* | **7**<br>*x6.0* | 224 | 79 |
-| HR2 | \*\*\* - FLOWER | [ADVANCED FUTSUU](https://osu.ppy.sh/b/2528450?m=1) | 173 | **9.8** | **7**<br>*29ms* | **7**<br>*x6.0* | 283 | 119 |
+| HR2 | Tsukasa (Arte Refact) - Fragrance | [BASIC](https://osu.ppy.sh/b/2908362?m=1) | 173 | **9.8** | **7**<br>*29ms* | **7**<br>*x6.0* | 129 | 65 |
 | HR3 | maritumix - Reiou | [FutoRei](https://osu.ppy.sh/b/201398?m=1) | *90~135* | **7** | **5.6**<br>*33.2ms* | **5.6**<br>*x5.3* | 437 | 262 |
 | DT1 | a-TTTempo - Remilia Pose | [Futsuu (0.7s)](https://osu.ppy.sh/b/2104528?m=1) | **180** | 5 | **8.22**<br>*25.33ms* | **1.125**<br>*x3.45* | 120 | **54** |
 | DT2 | Suou Momoko - Rolling Sankaku | [4MIX](https://osu.ppy.sh/b/2857467?m=1) | **198** | 7 | **7.88**<br>*26.33ms* | **0.75**<br>*x3.3* | 288 | **164** |
 | DT3 | a-TTTempo - Flandre March (Hard) | *[Pair](https://osu.ppy.sh/b/189884?m=1)* | **225~240** | 1 | **6.88**<br>*29.33ms* | **-0.375**<br>*x2.85* | 151 | **59** |
 | HDHR1<br>*FM3?* | LeaF - Mopemope Kids Edition | [Kodomotachi no Taiko Asobu](https://osu.ppy.sh/b/2724781?m=1) | 100 | **10** | **5.6**<br>*33.2ms* | **5.6**<br>*x5.3* | 179 | 110 |
-| FM1 | Tokugawa Matsuri - Festa Illoopmination | [Festa Fustuu](https://osu.ppy.sh/b/2628304?m=1) | 170 | 6 | 5<br>*35ms* | 5<br>*x5* | 496 | 189 |
-| FM2 | Sakurai Momoka - La Vie En Rose | [REGULAR](https://osu.ppy.sh/b/2795585?m=1) | 172 | 8 | 4<br>*38ms* | 4<br>*x4.6* | 169 | 125 |
+| FM1 | Tokugawa Matsuri - Festa Illoopmination | [Festa Fustuu](https://osu.ppy.sh/b/2628304?m=1) | 170 | 6 | 5<br>*35ms* | 5<br>*x5* | 496 | 189 | 
+| FM2 | Ogata Chieri - Angel Dream | [ka-don](https://osu.ppy.sh/b/2894093?m=1) | 180 | 7 | 3.6<br>*39.2ms* | 3.6<br>*x4.44* | 260 | 140 |
 | **TB** | RD-Sounds - Sakasa Medley | [Malron](https://osu.ppy.sh/b/2796735?m=1) | *112.7~213.9* | 7 | 4<br>*38ms* | 4<br>*x4.6* | 385 | 172 |
 
 ## Pool Breakdown
