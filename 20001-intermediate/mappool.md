@@ -16,7 +16,7 @@
 | HD2 | Ogata Chieri - Angel Dream | [dokakadon](https://osu.ppy.sh/b/2894091?m=1) | 180 | 6 | 5<br>*35ms* | 5<br>*x5.0* | 567 | 130 |
 | HD3 | ZUN - Furuki Yuanshen (Spirit World Version) | [Seiga Mudzu Mudzu](https://osu.ppy.sh/b/2877162?m=1) | 174 | 6 | 5.5<br>*33.5ms* | 5.5<br>*x5.25* | 390 | 100 |
 | HR1 | a-TTTempo - Flandre March | [Three of a Kind](https://osu.ppy.sh/b/242446?m=1) | 140 | **9.8** | **7**<br>*29ms* | **7**<br>*x6.0* | 281 | 84 |
-| HR2 | Otonomori - Theme of Ennis | *[CO-OP / EXTREME \(Sprint\)](https://osu.ppy.sh/beatmaps/2963353?mode=taiko)* | 162 | **8.4** | **7**<br>*29ms* | **7**<br>**x6.0** | 806 | 189 |
+| HR2 | Otonomori - Theme of Ennis | *[CO-OP / EXTREME \(Sprint\)](https://osu.ppy.sh/beatmaps/2963353?mode=taiko)* | 162 | **8.4** | **7**<br>*29ms* | **7**<br>*x6.0* | 806 | 189 |
 | HR3 | \*\*\* - FLOWER | [EXPERT MUZU](https://osu.ppy.sh/b/2103815?m=1) | 173 | **8.4** | **8.4**<br>*24.8ms* | **8.4**<br>*x6.7* | 533 | 119 |
 | DT1 | Taishi - Nerverakes | [ADVANCED FUTSUU](https://osu.ppy.sh/b/2666644?m=1) | **210** | 8 | **8.89**<br>*23.33ms* | **1.875**<br>*x3.75* | 120 | **53** |
 | DT2 | Kanzaki Ranko - Souyoku no Aria M@STER | [Shin'aido no toki ni](https://osu.ppy.sh/b/2895659?m=1) | **255** | 6.3 | **8.22**<br>*25.33ms* | **1.125**<br>*x3.45* | 399 | **111** |
