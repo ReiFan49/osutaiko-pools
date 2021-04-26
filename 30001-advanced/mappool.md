@@ -107,7 +107,7 @@ The classic.
 ## Pooling Considerations
 
 - Limited choice of uploaded beatmaps
-- Want to aim for pre-intermediate (mid-high tier of beginners), this may not fit for all. Hence all the inputs are welcomed!
+- Want to aim for pre-advanced (mid-high tier of intermediate), this may not fit for all. Hence all the inputs are welcomed!
 
 ## Pool Usage Instructions
 
