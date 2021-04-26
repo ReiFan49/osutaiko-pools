@@ -24,7 +24,7 @@
 | FM1 | Sakurai Momoka - THE VILLAIN'S NIGHT | [PRO](https://osu.ppy.sh/b/2858737?m=1) | 140 | 7 | 5<br>*35ms* | 5<br>*x5.0* | 362 | 133 |
 | FM2 | Tsukasa (Arte Refact) - Fragrance | [EXPERT](https://osu.ppy.sh/b/2908363?m=1) | 180 | 6.5 | 5<br>*35ms* | 5<br>*x5.0* | 274 | 65 |
 | FM3 | RD-Sounds - Sakasa Medley | [Drahaa](https://osu.ppy.sh/b/2796734?m=1) | *112.7~213.9* | 6 | 5<br>*35ms* | 5<br>*x5.0* | 615 | 172 |
-| **TB** | RD-Sounds - Taiji no Yume ~ Soul Undertone | [Metamorph Embryo](https://osu.ppy.sh/b/2902261?m=1) | 80 | 5 | 5<br>*35ms* | 5<br>*x5.0* | 1446 | 385 |
+| **TB** | RD-Sounds - Taiji no Yume ~ Soul Undertone | [Metamorph Embryo](https://osu.ppy.sh/b/2902261?m=1) | 80 | 5 | 5<br>*35ms* | 5<br>*x5.0* | 1,446 | 385 |
 
 ## Pool Breakdown
 
