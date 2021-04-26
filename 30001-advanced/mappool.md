@@ -6,7 +6,7 @@
 
 |   | Song Title | Difficulty | BPM | HP | OD | SD | Count | Length |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| NM1 | ZUN - Boushitsu no Emotion | [+100%](https://osu.ppy.sh/beatmaps/267111?mode=taiko) | *160 *| 6.5 | 6<br>*32ms* | 6<br>*x5.5* | 1,620 | 240 |
+| NM1 | ZUN - Boushitsu no Emotion | [+100%](https://osu.ppy.sh/beatmaps/267111?mode=taiko) | *160* | 6.5 | 6<br>*32ms* | 6<br>*x5.5* | 1,620 | 240 |
 | NM2 | sasakure.UK - Senkou no Brionac | [Huge Danger!](https://osu.ppy.sh/beatmaps/2843667?mode=taiko) | 140 | 6 | 6<br>*32ms* | 6<br>*x5.5* | 747 | 135 |
 | NM3 | D-Cee - CITRUS MONSTER | [Huge Danger!](https://osu.ppy.sh/beatmaps/2960601?mode=taiko) | 220 | 5 | 6<br>*32ms* | 6<br>*x5.5* | 817 | 119 |
 | NM4 | RD-Sounds - Nani mo Kamo ga Gensou | [Everything](https://osu.ppy.sh/beatmaps/2706338?mode=taiko) | ??? | 6 | 7<br>*29ms* | 7<br>*x6.0* | 979 | 260 |
