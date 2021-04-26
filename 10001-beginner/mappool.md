@@ -11,7 +11,7 @@
 | NM3 | \*\*\* - Aduh! | [Tisoledat](https://osu.ppy.sh/b/2706332?m=1) | 115~195 | 7 | 5<br>*35ms* | 5<br>*x5* | 447 | 178 |
 | NM4 | sasakure.UK - Senkou no Brionac | [Moderate Danger](https://osu.ppy.sh/b/2843669?m=1) | 140 | 7 | 4<br>*38ms* | 4<br>*x4.6* | 391 | 145 |
 | HD1 | a-TTTempo - Flandre March | [Pair](https://osu.ppy.sh/b/242445?m=1) | 140 | 8 | 4<br>*38ms* | 4<br>*x4.6* | 174 | 97 |
-| HD2 | Myon - Concealed the Conclusion "Extra Medley" | Easy | 170~180 | 8 | 3<br>*41ms* | 3<br>*41.5* | 250 | 185 |
+| HD2 | Myon - Concealed the Conclusion "Extra Medley" | Easy | 170~180 | 8 | 3<br>*41ms* | 3<br>*x4.2* | 250 | 185 |
 | HD3 | ZUN - Furuki Yuanshen (Spirit World Version) | [Seiga Futsuu Futsuu](https://osu.ppy.sh/b/2877160?m=1) | 174 | 7 | 4.5<br>*36.5ms* | 4.5<br>*x4.8* | 190 | 100 |
 | HR1 | Taishi - Nerverakes | [ADVANCED FUTSUU](https://osu.ppy.sh/b/2666644?m=1) | 140 | **10** | **7**<br>*29ms* | **7**<br>*x6.0* | 224 | 79 |
 | HR2 | Tsukasa (Arte Refact) - Fragrance | [BASIC](https://osu.ppy.sh/b/2908362?m=1) | 173 | **9.8** | **7**<br>*29ms* | **7**<br>*x6.0* | 129 | 65 |
