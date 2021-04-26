@@ -1,6 +1,6 @@
 # Rei_Fan49's Taiko Beginner Practice Pool
 
-## Version: 2021 March - Special Edition
+## Version: 2021 May - Special Edition
 
 ## Summary
 
@@ -11,7 +11,7 @@
 | NM3 | \*\*\* - Aduh! | [Tisoledat](https://osu.ppy.sh/b/2706332?m=1) | 115~195 | 7 | 5<br>*35ms* | 5<br>*x5* | 447 | 178 |
 | NM4 | sasakure.UK - Senkou no Brionac | [Moderate Danger](https://osu.ppy.sh/b/2843669?m=1) | 140 | 7 | 4<br>*38ms* | 4<br>*x4.6* | 391 | 145 |
 | HD1 | a-TTTempo - Flandre March | [Pair](https://osu.ppy.sh/b/242445?m=1) | 140 | 8 | 4<br>*38ms* | 4<br>*x4.6* | 174 | 97 |
-| HD2 | BiBi - Cutie Panther | *[BASIC](https://osu.ppy.sh/b/2666573?m=1)* | 170 | 4 | 3.8<br>*38.6ms* | 3.8<br>*x4.52* | 429 | 263 |
+| HD2 | Myon - Concealed the Conclusion "Extra Medley" | Easy | 170~180 | 8 | 3<br>*41ms* | 3<br>*41.5* | 250 | 185 |
 | HD3 | ZUN - Furuki Yuanshen (Spirit World Version) | [Seiga Futsuu Futsuu](https://osu.ppy.sh/b/2877160?m=1) | 174 | 7 | 4.5<br>*36.5ms* | 4.5<br>*x4.8* | 190 | 100 |
 | HR1 | Taishi - Nerverakes | [ADVANCED FUTSUU](https://osu.ppy.sh/b/2666644?m=1) | 140 | **10** | **7**<br>*29ms* | **7**<br>*x6.0* | 224 | 79 |
 | HR2 | Tsukasa (Arte Refact) - Fragrance | [BASIC](https://osu.ppy.sh/b/2908362?m=1) | 173 | **9.8** | **7**<br>*29ms* | **7**<br>*x6.0* | 129 | 65 |
@@ -50,9 +50,9 @@
 
   A simple normal speed hidden. A first-step to learn Hidden mod with simple song.
   
-- Cutie Panther [*BASIC*]
+- Concealed the Conclusion "Extra Medley" [Easy]
 
-  Fast hidden. However this map is coupled with enourmous amount of drumrolls in it. Be careful when hitting those for high scores as you may hit another note by accident! For a fact the drumroll tick in this map is about... 1000? I don't remember but yeah, a drumroll battle in the midst of Hidden mod.
+  Fast scroll map. Don't worry.
 
 - Furuki Yuanshen (RKT) [Seiga Futsuu Futsuu]
 
@@ -64,9 +64,9 @@
 
   Somewhat old map, this is one of tough futsuu with slow yet faster scroll.
 
-- FLOWER [ADVANCED]
+- Fragrance [BASIC]
 
-  This map is faster than you could expect in HR itself. To consider this map is part of Tenkaichi Otogesai Pack, this map will not forgive any single mistake, so be careful!
+  A simple boosted scroll map. It's fun to play.
 
 - Reiou [Fut]
   
@@ -98,9 +98,13 @@
 
   Another consistency map, however it's harder than the original version.
 
-- La Vie En Rose [REGULAR]
+- ~~La Vie En Rose [REGULAR]~~
 
   A simple map. This map is particularly *slower* than you could expect as other **170 BPM maps are**.
+
+- Angel Dream [ka-don]
+
+  A simple map.
 
 ### Tie Breaker
 
