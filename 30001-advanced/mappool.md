@@ -12,7 +12,7 @@
 | NM4 | RD-Sounds - Nani mo Kamo ga Gensou | [Everything](https://osu.ppy.sh/beatmaps/2706338?mode=taiko) | ??? | 6 | 7<br>*29ms* | 7<br>*x6.0* | 979 | 260 |
 | NM5 | t+pazolite - Our Wrenally | [Huge Danger!](https://osu.ppy.sh/beatmaps/2933908?mode=taiko) | 105 | 5 | 6<br>*32ms* | 6<br>*x5.5* | 806 | 131 |
 | NM6 | Meramipop - she's purity | [Paradichlorobenzene ORIGINAL](https://osu.ppy.sh/beatmaps/2537487?mode=taiko) | 66~188 | 5 | 7<br>*29ms* | 7<br>*x6.0* | 1,906 | 348 |
-| HD1 | Otonomori - Theme of Ennis | [CO-OP / HYPER](https://osu.ppy.sh/beatmaps/2960085?mode=taiko) | 162 | 6 | 6<br>*32ms* | 6<br>*x5.5* | 1117 | 189 |
+| HD1 | Otonomori - Theme of Ennis | [CO-OP / HYPER](https://osu.ppy.sh/beatmaps/2960085?mode=taiko) | 162 | 6 | 6<br>*32ms* | 6<br>*x5.5* | 1,117 | 189 |
 | HD2 | Kanzaki Ranko - Souyoku no Aria M@STER | [Kiss](https://osu.ppy.sh/beatmaps/2895660?mode=taiko) | 170 | 5 | 6<br>*32ms* | 6<br>*x5.5* | 811 | 192 |
 | HD3 | a-TTTempo - Remilia Pose | [Ura Oni (Side-R)](https://osu.ppy.sh/beatmaps/2104532?mode=taiko) | 120 | 7 | 6<br>*32ms* | 6<br>*x5.5* | 433 | 81 |
 | HR1 | Ogata Chieri - Angel Dream | [dokakadoka](https://osu.ppy.sh/beatmaps/2894090?mode=taiko) | 180 | **8.4** | **7.7**<br>*26.9ms* | **7.7**<br>*x6.35* | 765 | 130 |
