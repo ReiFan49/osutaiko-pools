@@ -22,7 +22,7 @@ Each pool will be finalized in here, and may be updated at most **once a month**
   
   Pool compositions: **6 NM**, **3 HD**, **3 HR**, **3 DT**, **3 FM** + **TB**
 
-- Taiko Intermediate Practice
+- Taiko Advanced Practice
 
   Pool compositions: **6 NM**, **3 HD**, **3 HR**, **3 DT**, **3 FM** + **TB**
 
