@@ -84,7 +84,7 @@ Slow map with questionable snapping.
 
 Speed map with consistency test.
 
-### [Double Test] Glorious Crown
+### [Double Time] Glorious Crown
 
 Speed map? Hahaha.
 
