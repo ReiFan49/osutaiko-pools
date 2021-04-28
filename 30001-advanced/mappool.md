@@ -14,13 +14,13 @@
 | NM6 | Meramipop - she's purity | [Paradichlorobenzene ORIGINAL](https://osu.ppy.sh/beatmaps/2537487?mode=taiko) | 66~188 | 5 | 7<br>*29ms* | 7<br>*x6.0* | 1,906 | 348 |
 | HD1 | Otonomori - Theme of Ennis | [CO-OP / HYPER](https://osu.ppy.sh/beatmaps/2960085?mode=taiko) | 162 | 6 | 6<br>*32ms* | 6<br>*x5.5* | 1,117 | 189 |
 | HD2 | Kanzaki Ranko - Souyoku no Aria M@STER | [Kiss](https://osu.ppy.sh/beatmaps/2895660?mode=taiko) | 170 | 5 | 6<br>*32ms* | 6<br>*x5.5* | 811 | 192 |
-| HD3 | a-TTTempo - Remilia Pose | [Ura Oni (Side-R)](https://osu.ppy.sh/beatmaps/2104532?mode=taiko) | 120 | 7 | 6<br>*32ms* | 6<br>*x5.5* | 433 | 81 |
+| HD3 | Sakurai Momoka - THE VILLAIN'S NIGHT | [WITCH](https://osu.ppy.sh/beatmaps/2861578?mode=taiko) | 140 | 6 | 6<br>*32ms* | 6<br>*x5.5* | 585 | 123 |
 | HR1 | Ogata Chieri - Angel Dream | [dokakadoka](https://osu.ppy.sh/beatmaps/2894090?mode=taiko) | 180 | **8.4** | **7.7**<br>*26.9ms* | **7.7**<br>*x6.35* | 765 | 130 |
 | HR2 | Tsukasa (Arte Refact) - Fragrance | [MASTER](https://osu.ppy.sh/beatmaps/2908364?mode=taiko) | 180 | **8.4** | **8.4**<br>*24.8ms* | **8.4**<br>*x6.7* | 449 | 65 |
-| HR3 | Taishi - Nerverakes | [MASTER ONI](https://osu.ppy.sh/beatmaps/2666647?mode=taiko) | 140 | **10** | **10**<br>*20ms* | **10**<br>*x7.5* | 541 | 80 |
+| HR3 | a-TTTempo - Remilia Pose | [Ura Oni (Side-R)](https://osu.ppy.sh/beatmaps/2104532?mode=taiko) | 120 | **9.8** | **8.4**<br>*24.8ms* | **8.4**<br>*x6.7* | 433 | 81 |
 | DT1 | Suou Momoko - Rolling Sankaku | [MOMOKO-MILLION-MIX](https://osu.ppy.sh/beatmaps/2857469?mode=taiko) | **198** | 6 | **8.88**<br>*23.33ms* | **1.875**<br>*x3.75* | 840 | **163** |
 | DT2 | Tokugawa Matsuri - Festa Illoopmination | [MATSURI-MILLION-MIX](https://osu.ppy.sh/beatmaps/2628306?mode=taiko) | **255** | 6 | **9.55**<br>*21.33ms* | **2.813**<br>*x4.125* | 765 | **126** |
-| DT3 | xi - Glorious Crown | [Danger](https://osu.ppy.sh/beatmaps/2933935?mode=taiko) | **337.75** | 6 | **8.88**<br>*23.33ms* | **1.875**<br>*x3.75* | 473 | **88** |
+| DT3 | Taishi - Nerverakes | [EXPERT MUZU](https://osu.ppy.sh/beatmaps/2666645?mode=taiko) | 140 | 8 | **9.55**<br>*21.33ms* | **2.813**<br>*x4.125* | 541 | 53 |
 | FM1 | \*\*\* - Aduh! | [Tikusruk](https://osu.ppy.sh/beatmaps/2706331?mode=taiko) | 115~195 | 6 | 7<br>*29ms* | 7<br>*x6.0* | 1,111 | 178 |
 | FM2 | Myon - Concealed the Conclusion "Extra Medley" | Lunatic | 170~180 | 6 | 6<br>*32ms* | 6<br>*x5.5* | 1,026 | 185 |
 | FM3 | RD-Sounds - Sakasa Medley | [Ticnalu](https://osu.ppy.sh/beatmaps/2796737?mode=taiko) | *112.7~213.9* | 6 | 6<br>*32ms* | 6<br>*x5.5* | 949 | 172 |
@@ -60,9 +60,9 @@ I just consider the same as EXTREME diff. The song itself is kinda tricky to map
 
 Just a normal fast map. Don't laugh.
 
-### [Hidden] Remilia Pose
+### [Hidden] THE VILLAIN'S NIGHT
 
-Imagine being able to read this map.
+Unreadable.
 
 ### [Hard Rock] Angel Dream
 
@@ -72,9 +72,9 @@ Notes go faster on some section.
 
 Notes go faster than Angel Dream.
 
-### [Hard Rock] Nerverakes
+### [Hard Rock] Remilia Pose
 
-Notes go faster than you can imagine.
+Imagine being able to read this map in Hidden.
 
 ### [Double Time] Rolling Sankaku
 
@@ -84,9 +84,9 @@ Slow map with questionable snapping.
 
 Speed map with consistency test.
 
-### [Double Time] Glorious Crown
+### [Double Time] Nerverakes
 
-Speed map? Hahaha.
+This is a light oni.
 
 ### [Free Mod] Aduh!
 
@@ -116,13 +116,25 @@ The classic.
 ## Fun Snippet
 
 ```python
-def rateSD(od, rate=3):
-   newSD = taikoSD(od) * 3 / rate
-   if newSD >= 5:
-     return (newSD - 5) / 0.5 + 5
-   else:
-     return (newSD - 3) / 0.4
+def taikoOD(od):
+  return 50 - od * 3
 
+def rateOD(od, rate=3):
+  newOD = taikoOD(od) * rate / 3
+  return (50 - newOD) / 3
+
+def taikoSD(od):
+  return (3 + od * 0.4) if od < 5 else (5 + (od - 5) * 0.5)
+
+def rateSD(od, rate=3):
+  newSD = taikoSD(od) * 3 / rate
+  if newSD >= 5:
+    return (newSD - 5) / 0.5 + 5
+  else:
+    return (newSD - 3) / 0.4
+
+dtOD = lambda od: rateOD(od, 2)
+htOD = lambda od: rateOD(od, 4)
 dtSD = lambda od: rateSD(od, 4)
 htSD = lambda od: rateSD(od, 2)
 ```
