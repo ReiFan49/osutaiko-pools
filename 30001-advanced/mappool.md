@@ -20,7 +20,7 @@
 | HR3 | a-TTTempo - Remilia Pose | [Ura Oni (Side-R)](https://osu.ppy.sh/beatmaps/2104532?mode=taiko) | 120 | **9.8** | **8.4**<br>*24.8ms* | **8.4**<br>*x6.7* | 433 | 81 |
 | DT1 | Suou Momoko - Rolling Sankaku | [MOMOKO-MILLION-MIX](https://osu.ppy.sh/beatmaps/2857469?mode=taiko) | **198** | 6 | **8.88**<br>*23.33ms* | **1.875**<br>*x3.75* | 840 | **163** |
 | DT2 | Tokugawa Matsuri - Festa Illoopmination | [MATSURI-MILLION-MIX](https://osu.ppy.sh/beatmaps/2628306?mode=taiko) | **255** | 6 | **9.55**<br>*21.33ms* | **2.813**<br>*x4.125* | 765 | **126** |
-| DT3 | Taishi - Nerverakes | [EXPERT MUZU](https://osu.ppy.sh/beatmaps/2666645?mode=taiko) | 140 | 8 | **9.55**<br>*21.33ms* | **2.813**<br>*x4.125* | 541 | 53 |
+| DT3 | Taishi - Nerverakes | [EXPERT MUZU](https://osu.ppy.sh/beatmaps/2666645?mode=taiko) | 140 | 8 | **9.55**<br>*21.33ms* | **2.813**<br>*x4.125* | 541 | **53** |
 | FM1 | \*\*\* - Aduh! | [Tikusruk](https://osu.ppy.sh/beatmaps/2706331?mode=taiko) | 115~195 | 6 | 7<br>*29ms* | 7<br>*x6.0* | 1,111 | 178 |
 | FM2 | Myon - Concealed the Conclusion "Extra Medley" | Lunatic | 170~180 | 6 | 6<br>*32ms* | 6<br>*x5.5* | 1,026 | 185 |
 | FM3 | RD-Sounds - Sakasa Medley | [Ticnalu](https://osu.ppy.sh/beatmaps/2796737?mode=taiko) | *112.7~213.9* | 6 | 6<br>*32ms* | 6<br>*x5.5* | 949 | 172 |
