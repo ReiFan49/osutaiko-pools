@@ -1,6 +1,6 @@
 NM1: Tokugawa Matsuri - Festa Illumination [Fetsa Futsuu], 2628312
-NM2: Yuji Masubuchi -  Nesin Amatias Song Selection Preview [ishikazumu], 2797460
-NM3: Morimori Atsushi - Aduh! [Tisoledat], 2706332
+NM2: Kanzaki Ranko - Frost [Drenched], 2935224
+NM3: Tokugawa Matsuri - Memento? Momento? Rururu! [SOLO 4MIX], 3181653
 NM4: sasakure.UK - Senkou no Brionac [Moderate Danger], 2843669
 HD1: a-TTTempo - Flandre March [Pair], 242445
 HD2: Myon - Concealed the Conclusion "Extra Medley" [Easy], 2985752
@@ -8,8 +8,7 @@ HR1: Taishi - Nerverakes [ADVANCED FUTSUU], 2666644
 HR2: Tsukasa (Arte Refact) - Fragrance [BASIC], 2908362
 DT1: a-TTTempo - Remilia Pose [Futsuu (0.7s)], 2104528
 DT2: Suou Momoko - Rolling Sankaku [4MIX], 2857467
-DT3: a-TTTempo - Flandre March (Hard) [Pair], 189884
-HDHR1: LeaF - Mopemope Kids Edition [Kodomotachi no Taiko Asobu], 2724781
 FM1: Tokugawa Matsuri - Festa Illoopmination [Festa Fustuu], 2628304
 FM2: Ogata Chieri - Angel Dream [ka-don], 2894093
+FM3: Fortuna Regina - Ochiru Kajitsu [REGULAR], 3296844
 TB: RD-Sounds - Sakasa Medley [Malron], 2796735
